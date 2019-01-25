@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "568241295146",
+    "firebase_url": "https://taxirapidee.firebaseio.com",
+    "project_id": "taxirapidee",
+    "storage_bucket": "taxirapidee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568241295146:android:f8dfee129dad6fbe",
+        "android_client_info": {
+          "package_name": "ht.queeny.taxirapide2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568241295146-vpctc6f92jnsgcfoo48arb19uav28o1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ht.queeny.taxirapide2",
+            "certificate_hash": "7109b2deb3dedf250672771867449a44991fe921"
+          }
+        },
+        {
+          "client_id": "568241295146-i446bm40if1ok8fpadu92i1n1c4g62r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChgyGC9ncB7YwYSfUM0va2umFK99l_Ifc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568241295146-i446bm40if1ok8fpadu92i1n1c4g62r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
